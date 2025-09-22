@@ -25,7 +25,7 @@ The goal of this task was to perform **network reconnaissance** using `Nmap` to 
 
 scan_results.txt → Raw Nmap scan output.
 
-screenshots/ → Screenshots of terminal and Wireshark.
+screenshots/ → Screenshots of terminal.
 
 README.md → Documentation of the task.
 
